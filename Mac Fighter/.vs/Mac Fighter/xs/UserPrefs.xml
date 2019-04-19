@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E047F603-7890-B1C8-A3F0-5AB86D6CE1B3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/CharacterController_2D.cs">
+    <Files>
+      <File FileName="Assets/scripts/gohome.cs" Line="11" Column="6" />
+      <File FileName="Assets/scripts/confirm_page.cs" Line="17" Column="6" />
+      <File FileName="Assets/scripts/ColliderEvent_Sender.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/CharacterController_2D.cs" Line="180" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
